@@ -1,0 +1,22 @@
+C:\Users\Mert\Documents\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Documents\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.MainForm.resources
+C:\Users\Mert\Documents\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.csproj.GenerateResource.Cache
+C:\Users\Mert\Documents\SharpDevelop Projects\iscalisma\iscalisma\bin\Debug\iscalisma.exe.config
+C:\Users\Mert\Documents\SharpDevelop Projects\iscalisma\iscalisma\bin\Debug\iscalisma.exe
+C:\Users\Mert\Documents\SharpDevelop Projects\iscalisma\iscalisma\bin\Debug\iscalisma.pdb
+C:\Users\Mert\Documents\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.exe
+C:\Users\Mert\Documents\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.pdb
+D:\DRİVER FİLES\SharpDevelop Projects\iscalisma\iscalisma\bin\Debug\iscalisma.exe.config
+D:\DRİVER FİLES\SharpDevelop Projects\iscalisma\iscalisma\bin\Debug\iscalisma.exe
+D:\DRİVER FİLES\SharpDevelop Projects\iscalisma\iscalisma\bin\Debug\iscalisma.pdb
+D:\DRİVER FİLES\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.csprojResolveAssemblyReference.cache
+D:\DRİVER FİLES\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.MainForm.resources
+D:\DRİVER FİLES\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.csproj.GenerateResource.Cache
+D:\DRİVER FİLES\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.exe
+D:\DRİVER FİLES\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.pdb
+\\EKOLAYZER\SharpDevelop Projects2\iscalisma\iscalisma\bin\Debug\iscalisma.exe.config
+\\EKOLAYZER\SharpDevelop Projects2\iscalisma\iscalisma\obj\Debug\iscalisma.exe
+\\EKOLAYZER\SharpDevelop Projects2\iscalisma\iscalisma\obj\Debug\iscalisma.pdb
+\\EKOLAYZER\SharpDevelop Projects2\iscalisma\iscalisma\obj\Debug\iscalisma.csprojResolveAssemblyReference.cache
+\\EKOLAYZER\SharpDevelop Projects2\iscalisma\iscalisma\obj\Debug\iscalisma.MainForm.resources
+\\EKOLAYZER\SharpDevelop Projects2\iscalisma\iscalisma\obj\Debug\iscalisma.csproj.GenerateResource.Cache
