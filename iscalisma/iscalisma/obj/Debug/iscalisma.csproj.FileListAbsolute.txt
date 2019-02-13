@@ -1,0 +1,23 @@
+C:\Users\kosnük\Documents\SharpDevelop Projects\iscalisma\iscalisma\bin\Debug\iscalisma.exe
+C:\Users\kosnük\Documents\SharpDevelop Projects\iscalisma\iscalisma\bin\Debug\iscalisma.pdb
+C:\Users\kosnük\Documents\SharpDevelop Projects\iscalisma\iscalisma\bin\Debug\itextsharp.dll
+C:\Users\kosnük\Documents\SharpDevelop Projects\iscalisma\iscalisma\bin\Debug\itextsharp.pdfa.dll
+C:\Users\kosnük\Documents\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.MainForm.resources
+C:\Users\kosnük\Documents\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.csproj.GenerateResource.Cache
+C:\Users\kosnük\Documents\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.exe
+C:\Users\kosnük\Documents\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.pdb
+C:\Users\kosnük\Documents\SharpDevelop Projects\iscalisma\iscalisma\obj\Debug\iscalisma.csprojResolveAssemblyReference.cache
+F:\iscalisma\iscalisma\bin\Debug\iscalisma.exe
+F:\iscalisma\iscalisma\bin\Debug\iscalisma.pdb
+F:\iscalisma\iscalisma\obj\Debug\iscalisma.csprojResolveAssemblyReference.cache
+F:\iscalisma\iscalisma\obj\Debug\iscalisma.MainForm.resources
+F:\iscalisma\iscalisma\obj\Debug\iscalisma.csproj.GenerateResource.Cache
+F:\iscalisma\iscalisma\obj\Debug\iscalisma.exe
+F:\iscalisma\iscalisma\obj\Debug\iscalisma.pdb
+G:\iscalisma\iscalisma\bin\Debug\iscalisma.exe
+G:\iscalisma\iscalisma\bin\Debug\iscalisma.pdb
+G:\iscalisma\iscalisma\obj\Debug\iscalisma.csprojResolveAssemblyReference.cache
+G:\iscalisma\iscalisma\obj\Debug\iscalisma.MainForm.resources
+G:\iscalisma\iscalisma\obj\Debug\iscalisma.csproj.GenerateResource.Cache
+G:\iscalisma\iscalisma\obj\Debug\iscalisma.exe
+G:\iscalisma\iscalisma\obj\Debug\iscalisma.pdb
