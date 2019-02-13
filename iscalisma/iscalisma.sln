@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 # SharpDevelop 4.4
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iscalisma", "iscalisma\iscalisma.csproj", "{53E8F367-74B1-4EF7-92A9-F4F9D18005C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iscalisma", "iscalisma\iscalisma.csproj", "{A6616087-B333-47AA-86FC-F4A2A4CED1F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,9 +10,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{53E8F367-74B1-4EF7-92A9-F4F9D18005C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53E8F367-74B1-4EF7-92A9-F4F9D18005C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53E8F367-74B1-4EF7-92A9-F4F9D18005C7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{53E8F367-74B1-4EF7-92A9-F4F9D18005C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6616087-B333-47AA-86FC-F4A2A4CED1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6616087-B333-47AA-86FC-F4A2A4CED1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6616087-B333-47AA-86FC-F4A2A4CED1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6616087-B333-47AA-86FC-F4A2A4CED1F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
